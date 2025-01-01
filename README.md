@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Someshwar Holkar
 - 👀 I’m interested in Mern Stack Development, Mobile App Developement.
-- 🌱 I’m currently learning  Software Developement
+- 🌱 I’m currently learning  Software Developement.
 
 - 📫 How to reach me  someshwarsholkar22@gmail.com
 <!---
