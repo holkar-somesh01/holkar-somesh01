@@ -57,11 +57,11 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 
 1. **Human Resource Management System**  
    A web application designed to manage employee information, payroll, attendance, and more. This system aims to simplify HR management processes for organizations.  
-   [Live Demo](https://human-resource-management-system-xjin.onrender.com/) | [GitHub Repo](#)
+   [Live Demo](https://human-resource-management-system-xjin.onrender.com/) | [GitHub Repo-Backend](https://github.com/holkar-somesh01/Human-Resource-Management-Backend) | [GitHub Repo-Frontend](https://github.com/holkar-somesh01/Human-Resource-Management-Frontend)
 
 2. **Quick Bill Application**  
    A simple and efficient billing system to create and manage invoices. It allows users to generate, update, and manage bills for clients, making the billing process easier and faster.  
-   [Live Demo](https://quick-billing-application.onrender.com/) | [GitHub Repo](#)
+   [Live Demo](https://quick-billing-application.onrender.com/) | [GitHub Repo-Backend](https://github.com/holkar-somesh01/Quick-Billing-App-Backend) | [GitHub Repo-Frontend](https://github.com/holkar-somesh01/Quick-Billing-App-Frontend)
 
 ---
 
