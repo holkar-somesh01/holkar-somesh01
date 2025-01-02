@@ -70,17 +70,6 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - Mobile App Development (React Native, Flutter)
 
 ---
-
-### 📸 Developer Images:
-
-![MERN Stack Developer](https://your-image-url.com/mern-stack.png)  
-*I am a MERN Stack Developer.*
-
-![Mobile App Developer](https://your-image-url.com/mobile-app.png)  
-*I also develop mobile apps using React Native and Flutter.*
-
-*(Add links and descriptions for your projects to showcase your work.)*
-
 ### 📅 What's Next?
 
 I'm eager to take on new challenges and build something impactful. Feel free to collaborate or reach out if you have ideas or projects in mind!
