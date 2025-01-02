@@ -51,15 +51,35 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 > "When I'm not coding, you can find me exploring new gadgets, playing games, or binge-watching tech tutorials!"
 
 ---
+# My GitHub Projects
 
 ### 📝 Latest Projects:
 
-1. **Project Name 1** - A brief description of what it does. [GitHub Repo Link](#)
-2. **Project Name 2** - A brief description of what it does. [GitHub Repo Link](#)
+1. **Human Resource Management System**  
+   A web application designed to manage employee information, payroll, attendance, and more. This system aims to simplify HR management processes for organizations.  
+   [Live Demo](https://human-resource-management-system-xjin.onrender.com/) | [GitHub Repo](#)
 
-*(Add links and descriptions for your projects to showcase your work.)*
+2. **Quick Bill Application**  
+   A simple and efficient billing system to create and manage invoices. It allows users to generate, update, and manage bills for clients, making the billing process easier and faster.  
+   [Live Demo](https://quick-billing-application.onrender.com/) | [GitHub Repo](#)
 
 ---
+
+### 🧑‍💻 Skills & Technologies:
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Mobile App Development (React Native, Flutter)
+
+---
+
+### 📸 Developer Images:
+
+![MERN Stack Developer](https://your-image-url.com/mern-stack.png)  
+*I am a MERN Stack Developer.*
+
+![Mobile App Developer](https://your-image-url.com/mobile-app.png)  
+*I also develop mobile apps using React Native and Flutter.*
+
+*(Add links and descriptions for your projects to showcase your work.)*
 
 ### 📅 What's Next?
 
