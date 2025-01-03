@@ -28,14 +28,14 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - Firebase
 
 ---
+## GitHub Stats
 
-### 📈 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
+## Skills
 
+- **Microservices** (Beginner)
+- **Micro Frontend**
 ---
 
 ### 🔗 Connect With Me:
