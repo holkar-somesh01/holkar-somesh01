@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, SQL
 - **Mobile Development:** React Native, Flutter (Learning)
+- **Microservices:** Beginner
+- **Micro Frontend:** Beginner
 
 #### **🛠️ Tools & Platforms**
 - Git & GitHub
@@ -28,14 +30,17 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - Firebase
 
 ---
-## GitHub Stats
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)
 
-## Skills
+---
 
-- **Microservices** (Beginner)
-- **Micro Frontend**
+### 🌟 Fun Fact:
+
+> "When I'm not coding, you can find me exploring new gadgets, playing games, or binge-watching tech tutorials!"
+
 ---
 
 ### 🔗 Connect With Me:
@@ -46,17 +51,12 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 
 ---
 
-### 🌟 Fun Fact:
-
-> "When I'm not coding, you can find me exploring new gadgets, playing games, or binge-watching tech tutorials!"
-
----
 # My GitHub Projects
 
 ### 📝 Latest Projects:
 
 1. **Human Resource Management System**  
-   A web application designed to manage employee information, payroll, attendance, and more. This system aims to simplify HR management processes for organizations.  
+   A web application designed to manage employee information, payroll, attendance, and more. This system simplifies HR management processes for organizations.  
    [Live Demo](https://human-resource-management-system-xjin.onrender.com/) | [GitHub Repo-Backend](https://github.com/holkar-somesh01/Human-Resource-Management-Backend) | [GitHub Repo-Frontend](https://github.com/holkar-somesh01/Human-Resource-Management-Frontend)
 
 2. **Quick Bill Application**  
@@ -65,11 +65,13 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 
 ---
 
-### 🧑‍💻 Skills & Technologies:
+### 🧑‍💻 Technologies & Expertise:
 - MERN Stack (MongoDB, Express, React, Node.js)
 - Mobile App Development (React Native, Flutter)
+- Microservices & Micro Frontend (Beginner)
 
 ---
+
 ### 📅 What's Next?
 
 I'm eager to take on new challenges and build something impactful. Feel free to collaborate or reach out if you have ideas or projects in mind!
