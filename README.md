@@ -1,6 +1,3 @@
-It looks like you have a well-structured GitHub profile that highlights your skills, projects, and goals! If you're looking for suggestions on how to manage or improve it, here's a refined version of your profile along with some organizational tips:
-
----
 
 # 👋 Hi, I'm Someshwar Holkar!
 
