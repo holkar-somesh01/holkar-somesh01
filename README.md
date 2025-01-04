@@ -70,6 +70,7 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - MERN Stack (MongoDB, Express, React, Node.js)
 - Mobile App Development (React Native, Flutter)
 - Microservices & Micro Frontend (Beginner)
+- RabbitMQ, Redis, Docker(Beginner)
 
 ---
 
