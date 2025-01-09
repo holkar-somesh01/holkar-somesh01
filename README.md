@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm passionate about **MERN Stack Development** an
 - Git & GitHub
 - Visual Studio Code
 - Postman
-- Firebase
 
 ---
 
