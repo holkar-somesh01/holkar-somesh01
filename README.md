@@ -32,7 +32,9 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN 
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Stats](https://camo.githubusercontent.com/30be1db046ee08a588ff940c3060e3404d4649c868e4c233fac1877fea3a62db/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d686f6c6b61722d736f6d65736830312673686f775f69636f6e733d74727565267468656d653d7261646963616c266c616e67735f636f756e743d3826686964653d6373732c68746d6c)
+![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=radical&hide=css,html)  
+
 
 
 ---
