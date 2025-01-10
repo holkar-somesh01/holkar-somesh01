@@ -1,5 +1,3 @@
-
-
 # 👋 **Hi, I'm Someshwar Holkar!**  
 
 Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN Stack** and **Mobile App Development**. Always exploring new technologies and building exciting projects to push my skills to the next level.
@@ -34,7 +32,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN 
 
 ## 📊 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical&langs_count=8&hide=css,html)
 
 ---
 
@@ -86,4 +84,4 @@ I'm always looking for new challenges! If you're working on a cool project or ha
 
 <div align="center">  
   <img src="https://visitor-badge.glitch.me/badge?page_id=holkar-somesh01" alt="Visitor Badge" />  
-</div>
+</div>  
