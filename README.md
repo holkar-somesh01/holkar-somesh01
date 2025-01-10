@@ -35,7 +35,10 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN 
 ![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=radical&hide=css,html)  
 
+---
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=holkar-somesh01&theme=radical)
 
 ---
 
