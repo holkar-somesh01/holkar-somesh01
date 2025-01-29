@@ -32,8 +32,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN 
 
 ## 📊 **GitHub Stats**
 
-![Someshwar's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical))  
-![Top Languages]([https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical))  
+![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=radical&hide=css,html)  
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer focused on **MERN 
 
 ## 🚀 **Contribution Graph**
 
-[![Someshwar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=holkar-somesh01&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true)](https://github.com/holkar-somesh01)
+[![Someshwar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=holkar-somesh01&bg_color=0f2027&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/holkar-somesh01)
 
 ---
 
