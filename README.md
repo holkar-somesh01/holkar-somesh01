@@ -107,6 +107,6 @@ Continuously exploring and building cutting-edge solutions. Let's collaborate if
 ---
 
 <div align="center">  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=holkar-somesh01" alt="Visitor Badge" />  
+   ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=Profile+Views)
 </div>
 
