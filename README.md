@@ -1,6 +1,6 @@
 # 👋 **Hi, I'm Someshwar Holkar!**
 
-Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack** and **Mobile App Development**, I thrive on crafting impactful solutions and exploring cutting-edge technologies.
+Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App Development**, and **Freelancing**, I thrive on crafting impactful solutions and exploring cutting-edge technologies.
 
 ---
 
@@ -10,6 +10,7 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack** and **Mobile 
 - 🌱 **Currently Learning:** Deepening my understanding of **Microservices Architecture**, **Flutter**, and **Cloud Technologies**.  
 - 🎯 **Goal-Oriented:** Committed to delivering innovative solutions and contributing to impactful projects.  
 - 🤝 **Collaborative:** Let's connect and build awesome tech products together!
+- 💼 **Available for Freelancing:** Need a website or mobile app? Let's turn your ideas into reality!  
 
 ---
 
@@ -20,13 +21,13 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack** and **Mobile 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, SQL  
 - **Mobile Development:** React Native, Flutter (Learning)  
-- **Microservices & Micro Frontend:** Beginner
+- **Microservices & Micro Frontend:** Beginner  
 
 ### 🛠️ **Tools & Platforms**
 - **Version Control:** Git & GitHub  
 - **Development Tools:** Visual Studio Code, Postman  
 - **Containerization:** Docker (Beginner)  
-- **Messaging Systems:** RabbitMQ, Redis (Beginner)
+- **Messaging Systems:** RabbitMQ, Redis (Beginner)  
 
 ---
 
@@ -49,44 +50,45 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack** and **Mobile 
 
 ---
 
-## 🌟 **Fun Fact**
+## 🌟 **Freelancing Services**
 
-> *"When I'm not coding, I enjoy exploring the latest gadgets, gaming, or binge-watching tech tutorials!"*
+I am available for freelance projects! If you need a professional **website**, **mobile app**, or **custom software solution**, feel free to reach out. Let's build something amazing together!
+
+### ✅ **What I Offer:**
+- Custom Web & Mobile App Development
+- Full-Stack MERN Applications
+- Responsive UI/UX Design
+- API Integration & Development
+- Performance Optimization
+
+> **Let's collaborate!** Drop me an email or connect on LinkedIn to discuss your project.
 
 ---
 
-## 🔗 **Connect With Me**
-
-- 🌐 **GitHub:** [GitHub Profile](https://github.com/holkar-somesh01)  
-- 📧 **Email:** [someshwarsholkar22@gmail.com](mailto:someshwarsholkar22@gmail.com)  
-- 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/someshwar-holkar-819503314)
-
----
-
-## 🚀 **My Projects**
+## 🛠️ **My Projects**
 
 ### 📝 **Featured Projects**
 
 1. **Human Resource Management System (HRMS)**  
    A comprehensive web app for managing employee information, payroll, attendance, and more.  
    - 🌐 [Live Demo](https://human-resource-management-system-xjin.onrender.com/)  
-   - 🔧 [Backend Code](https://github.com/holkar-somesh01/Human-Resource-Management-Backend)  
-   - 🔧 [Frontend Code](https://github.com/holkar-somesh01/Human-Resource-Management-Frontend)
+   - 🛠️ [Backend Code](https://github.com/holkar-somesh01/Human-Resource-Management-Backend)  
+   - 🛠️ [Frontend Code](https://github.com/holkar-somesh01/Human-Resource-Management-Frontend)
 
 2. **Quick Bill Application**  
    A fast, simple billing system for generating and managing invoices efficiently.  
    - 🌐 [Live Demo](https://quick-billing-application.onrender.com/)  
-   - 🔧 [Backend Code](https://github.com/holkar-somesh01/Quick-Billing-App-Backend)  
-   - 🔧 [Frontend Code](https://github.com/holkar-somesh01/Quick-Billing-App-Frontend)
+   - 🛠️ [Backend Code](https://github.com/holkar-somesh01/Quick-Billing-App-Backend)  
+   - 🛠️ [Frontend Code](https://github.com/holkar-somesh01/Quick-Billing-App-Frontend)
 
 ---
 
-### 🧑‍💻 **Technologies & Expertise**
+### 🤖 **Technologies & Expertise**
 
 - **MERN Stack (MongoDB, Express, React, Node.js)**  
 - **Mobile App Development (React Native, Flutter)**  
 - **Microservices & Micro Frontend (Beginner)**  
-- **RabbitMQ, Redis, Docker (Beginner)**
+- **RabbitMQ, Redis, Docker (Beginner)**  
 
 ---
 
@@ -95,6 +97,16 @@ Continuously exploring and building cutting-edge solutions. Let's collaborate if
 
 ---
 
+## 💎 **Connect With Me**
+
+- 🌐 **GitHub:** [GitHub Profile](https://github.com/holkar-somesh01)  
+- 📧 **Email:** [someshwarsholkar22@gmail.com](mailto:someshwarsholkar22@gmail.com)  
+- 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/someshwar-holkar-819503314)  
+- 👤 **Instagram (Freelancing):** [@yuvatech_](https://www.instagram.com/yuvatech_)
+
+---
+
 <div align="center">  
   <img src="https://visitor-badge.glitch.me/badge?page_id=holkar-somesh01" alt="Visitor Badge" />  
 </div>
+
