@@ -105,8 +105,5 @@ Continuously exploring and building cutting-edge solutions. Let's collaborate if
 - 👤 **Instagram (Freelancing):** [@yuvatech_](https://www.instagram.com/yuvatech_)
 
 ---
-
-<div align="center">  
-   ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=Profile+Views)
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=Profile+Views)
 
