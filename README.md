@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App
 ## 🌟 **About Me**
 
 - 💻 **Tech Enthusiast:** I love building scalable and intuitive web and mobile applications.  
-- 🌱 **Currently Learning:** Deepening my understanding of **Microservices Architecture**, **Flutter**, and **Cloud Technologies**.  
+- 🌱 **Currently Learning:** Deepening my understanding of **Microservices Architecture**, **Micro Front-end** **Flutter**, and **Cloud Technologies**.  
 - 🎯 **Goal-Oriented:** Committed to delivering innovative solutions and contributing to impactful projects.  
 - 🤝 **Collaborative:** Let's connect and build awesome tech products together!
 - 💼 **Available for Freelancing:** Need a website or mobile app? Let's turn your ideas into reality!  
