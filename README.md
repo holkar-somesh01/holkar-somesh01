@@ -6,28 +6,28 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App
 
 ## 🌟 **About Me**
 
-- 💻 **Tech Enthusiast:** I love building scalable and intuitive web and mobile applications.  
-- 🌱 **Currently Learning:** Deepening my understanding of **Microservices Architecture**, **Micro Front-end** **Flutter**, and **Cloud Technologies**.  
-- 🎯 **Goal-Oriented:** Committed to delivering innovative solutions and contributing to impactful projects.  
-- 🤝 **Collaborative:** Let's connect and build awesome tech products together!
-- 💼 **Available for Freelancing:** Need a website or mobile app? Let's turn your ideas into reality!  
+- 💻 **Tech Enthusiast:** I love building scalable and intuitive web and mobile applications.
+- 🌱 **Currently Learning:** Deepening my knowledge of **Microservices Architecture**, **Micro Front-end**, **Flutter**, and **Cloud Technologies**.
+- 🎯 **Goal-Oriented:** Committed to delivering innovative solutions and contributing to impactful projects.
+- 🤝 **Collaborative:** Let's connect and build amazing tech products together!
+- 💼 **Available for Freelancing:** Need a website or mobile app? Let's bring your ideas to life!
 
 ---
 
 ## 🛠️ **My Skillset**
 
 ### 💻 **Languages & Frameworks**
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL  
-- **Mobile Development:** React Native, Flutter (Learning)  
-- **Microservices & Micro Frontend:** Beginner  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Mobile Development:** React Native, Flutter (Learning)
+- **Microservices & Micro Frontend:** Beginner
 
 ### 🛠️ **Tools & Platforms**
-- **Version Control:** Git & GitHub  
-- **Development Tools:** Visual Studio Code, Postman  
-- **Containerization:** Docker (Beginner)  
-- **Messaging Systems:** RabbitMQ, Redis (Beginner)  
+- **Version Control:** Git & GitHub
+- **Development Tools:** Visual Studio Code, Postman
+- **Containerization:** Docker (Beginner)
+- **Messaging Systems:** RabbitMQ, Redis (Beginner)
 
 ---
 
@@ -85,15 +85,15 @@ I am available for freelance projects! If you need a professional **website**, *
 
 ### 🤖 **Technologies & Expertise**
 
-- **MERN Stack (MongoDB, Express, React, Node.js)**  
-- **Mobile App Development (React Native, Flutter)**  
-- **Microservices & Micro Frontend (Beginner)**  
-- **RabbitMQ, Redis, Docker (Beginner)**  
+- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **Mobile App Development (React Native, Flutter)**
+- **Microservices & Micro Frontend (Beginner)**
+- **RabbitMQ, Redis, Docker (Beginner)**
 
 ---
 
 ## 📅 **What's Next?**  
-Continuously exploring and building cutting-edge solutions. Let's collaborate if you're working on something impactful!
+Continuously exploring and building cutting-edge solutions. Let’s collaborate if you're working on something impactful!
 
 ---
 
@@ -105,5 +105,4 @@ Continuously exploring and building cutting-edge solutions. Let's collaborate if
 - 👤 **Instagram (Freelancing):** [@yuvatech_](https://www.instagram.com/yuvatech_)
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=Profile+Views)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=holkar-somesh01&color=blue&style=flat-square&label=Profile+Views)
