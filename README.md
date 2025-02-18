@@ -40,7 +40,7 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App
 
 ## 🔥 **GitHub Streak**
 
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=holkar-somesh01&theme=dark&date_format=M%20j%5B%2C%20Y%5D])
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=holkar-somesh01&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
