@@ -31,7 +31,7 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App
 
 ---
 
-## 📊 **GitHub Stats**
+## 💊 **GitHub Stats**
 
 ![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=radical&hide=css,html)
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! 🚀 Passionate about **MERN Stack**, **Mobile App
 
 ## 🔥 **GitHub Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=holkar-somesh01&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=holkar-somesh01&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
@@ -106,3 +106,4 @@ Continuously exploring and building cutting-edge solutions. Let’s collaborate 
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=holkar-somesh01&color=blue&style=flat-square&label=Profile+Views)
+
