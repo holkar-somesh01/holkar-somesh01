@@ -14,15 +14,16 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Frontend:** React.js, Tailwind CSS, Redux, TypeScript
-- **Backend:** Node.js, Express.js, MongoDB, Firebase
+- **Frontend:** React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend
+- **Backend:** Node.js, Express.js, MongoDB, Firebase, Microservices Architecture
+- **Messaging & Caching:** Redis, RabbitMQ
 - **Desktop Apps:** Electron.js (MERN)
 - **Other:** Git, GitHub, REST API, Web Scraping
 
 ---
 
 ### 📈 GitHub Stats & Streak:
-![Someshwar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=holkar-somesh01&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=holkar-somesh01&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=react&hide_border=true)
 
