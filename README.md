@@ -34,7 +34,7 @@
 ### 📬 Let's Connect:
 - **GitHub:** [holkar-somesh01](https://github.com/holkar-somesh01)
 - **Instagram:** [@yuvatech_](https://www.instagram.com/yuvatech_/)
-- **Email:** someshwarholkar01@gmail.com
+- **Email:** someshwarsholkar2004@gmail.com
 
 ---
 
