@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Frontend:** React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend
+- **Frontend:** React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend,Electron.js.
 - **Backend:** Node.js, Express.js, MongoDB, Firebase, Microservices Architecture
 - **Messaging & Caching:** Redis, RabbitMQ
 - **Desktop Apps:** Electron.js (MERN)
