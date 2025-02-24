@@ -23,11 +23,12 @@
 ---
 
 ### 📈 GitHub Stats & Streak:
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=holkar-somesh01&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+### 📈 GitHub Stats & Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=holkar-somesh01&theme=react&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=react&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=holkar-somesh01&show_icons=true&theme=react&hide_border=true&border_radius=10)](https://github.com/holkar-somesh01)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=react&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holkar-somesh01&layout=compact&theme=react&hide_border=true&border_radius=10)](https://github.com/holkar-somesh01)
 
 ---
 
