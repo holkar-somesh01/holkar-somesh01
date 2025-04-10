@@ -9,7 +9,6 @@
 - ⚡ Currently working on **Clinic Management** and a **Politician Visitor Management App**.
 - 🎯 Exploring **Firebase** and improving my **DSA skills in JavaScript**.
 - 🔥 Freelancer offering **custom website and mobile app development services**.
-- 📢 Running **Yuvatech** (@yuvatech_) for freelance tech services.
 
 ---
 
@@ -33,7 +32,7 @@
 
 ### 📬 Let's Connect:
 - **GitHub:** [holkar-somesh01](https://github.com/holkar-somesh01)
-- **Instagram:** [@yuvatech_](https://www.instagram.com/yuvatech_/)
+- **Instagram:** [@soma_patil.24](https://www.instagram.com/soma_patil.24/)
 - **Email:** someshwarsholkar2004@gmail.com
 
 ---
