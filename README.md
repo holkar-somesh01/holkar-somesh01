@@ -6,7 +6,7 @@
 
 ### 📌 About Me:
 - 💻 Passionate about **MERN Stack** development and building scalable applications.
-- ⚡ Currently working on **Clinic Management** and a **Politician Visitor Management App**.
+- ⚡ Currently working on **Clinic Management** , **Politician Visitor Management App** **Rent Management App**.
 - 🎯 Exploring **Firebase** and improving my **DSA skills in JavaScript**.
 - 🔥 Freelancer offering **custom website and mobile app development services**.
 
