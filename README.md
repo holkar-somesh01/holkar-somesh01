@@ -1,6 +1,6 @@
 ### Hi there, I'm Someshwar Holkar! 👋
 
-🚀 **Full-Stack Developer | MERN Stack | Electron.js | TypeScript | Freelancer**
+🚀 **Full-Stack MERN Developer | React-Native Developer | Electron.js | Javascript | TypeScript | Freelancer**
 
 ---
 
